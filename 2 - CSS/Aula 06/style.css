@@ -1,0 +1,27 @@
+body {
+    background: #dfdfdf;
+}
+p {
+    color: #222222;
+}
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff; /* shorthand - A ordem é importante, tem que ser respeitada*/
+    border-radius: 50%; /*pode ser acrescentado mais três valores, sendo a ordem: canto sup esq; canto sup dir; canto inf dir; canto inf esq (ex. 10% 10% 10% 10%)*/
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+    margin: 30px 30px 30px 30px; /*shorthand - A ordem aqui também é importante e deve ser respeitada (sentido horário)*/
+    /*
+    margin-top: 100px;
+    margin-right: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    */
+    /*
+    padding: 100px 
+    (esse comando acrescenta espaço entre a foto e a borda
+    */
+}

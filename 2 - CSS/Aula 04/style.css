@@ -1,0 +1,16 @@
+body {
+    background: #dfdfdf;
+}
+p {
+    color: #222222;
+}
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff; /* shorthand - A ordem é importante, tem que ser respeitada*/
+    border-radius: 50%;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+}
